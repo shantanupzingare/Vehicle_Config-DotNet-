@@ -1,97 +1,129 @@
-# 🛒 KiranaStore
+# 🚗 Vehicle Configurator
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=KiranaStore&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Smart%20Retail%20Management%20System&descSize=22&descAlignY=62&descColor=c7d2fe" width="100%"/>
-
-</div>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=240&section=header&text=Vehicle%20Configurator&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B2B%20Vehicle%20Leasing%20%26%20Fleet%20Management%20Platform&descSize=22&descAlignY=62&descColor=bfdbfe" width="100%"/>
 
 <a href="https://github.com/shantanupzingare"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/shantanu-zingare-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:shantanup.zingare@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=50&lines=Enterprise%20Retail%20Management%20Platform;Clean%20Architecture%20%7C%20.NET%208%20%7C%20C%23;POS%20Billing%20%7C%20Inventory%20%7C%20JWT%20Auth" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Enterprise%20Vehicle%20Leasing%20Platform;ASP.NET%20Core%20%7C%20C%23%20%7C%20SQL%20Server;Fleet%20Management%20%7C%20JWT%20Security%20%7C%20REST%20APIs;B2B%20Rental%20%26%20Leasing%20Automation" width="100%"/>
+
+<br/><br/>
+
+<img src="https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80" width="90%" style="border-radius:18px;" alt="Sports Car Banner"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Performance-Sports_Cars-red?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fleet-Luxury_Vehicles-blue?style=for-the-badge&logo=tesla&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business-B2B_Leasing-success?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 
 </div>
 
 ---
 
-## 📌 About KiranaStore
+## 🏎️ Platform Showcase
 
-```javascript
-const kiranaStore = {
-  projectName    : "KiranaStore",
-  type           : "Retail Management System",
-  architecture   : "Clean Architecture",
-  backend        : ".NET 8 Web API",
-  authentication : "JWT + Role Based Access",
-  database       : "SQL Server",
-  features       : [
-    "POS Billing",
-    "Inventory Management",
-    "Customer Management",
-    "Supplier Management",
-    "Invoice Generation",
-    "Sales Analytics"
-  ],
-  developer      : "Shantanu Zingare"
-};
-```
+<div align="center">
 
-**KiranaStore** is an enterprise-grade store management solution designed for kirana shops, supermarkets, and retail businesses. It streamlines daily operations with secure billing, product management, stock monitoring, and customer relationship workflows.
+| Premium Sports Fleet                                                                                                   | Luxury Leasing Solutions                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=600&q=80" width="100%"/> | <img src="https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=600&q=80" width="100%"/> |
+
+</div>
 
 ---
 
-## 🚀 Core Features
+## 📌 About the Project
 
-### 🛍️ Retail Management
+```javascript
+const vehicleConfigurator = {
+  projectName      : "Vehicle Configurator",
+  type             : "B2B Fleet Management Platform",
+  architecture     : "Layered Enterprise Architecture",
+  backend          : "ASP.NET Core Web API",
+  language         : "C#",
+  database         : "SQL Server",
+  authentication   : "JWT Authentication",
+  coreModules      : [
+    "Vehicle Inventory",
+    "Leasing Management",
+    "Rental Configuration",
+    "User Management",
+    "Quotation System",
+    "Admin Dashboard"
+  ],
+  targetAudience   : "Leasing Companies & Rental Car Businesses",
+  developer        : "Shantanu Zingare"
+};
+```
 
-* Product catalog management
-* Category & supplier management
-* Stock in/out operations
-* Inventory alerts
-* Barcode-ready workflows
+**Vehicle Configurator** is a scalable B2B platform built for vehicle leasing firms, rental agencies, and automotive businesses to manage configurable fleets, leasing contracts, inventory, quotations, and customer workflows efficiently.
 
-### 💳 Billing System
+---
 
-* Fast POS billing
-* GST/tax calculations
-* Invoice generation
-* Payment gateway integration ready
-* Sales history management
+## 🚀 Key Features
 
-### 👥 User & Customer Management
+### 🚘 Vehicle Fleet Management
 
-* JWT authentication
-* Admin/staff role separation
-* Secure login system
-* Customer profiles
-* Supplier records
+* Vehicle model management
+* Configurable variants & features
+* Inventory tracking
+* Dynamic pricing structures
+* Availability management
 
-### 📊 Reporting & Insights
+### 📑 Leasing & Rental Operations
 
-* Daily/monthly sales reports
-* Revenue tracking
-* Product performance analysis
-* Inventory summaries
-* Business growth metrics
+* Lease plan generation
+* Contract lifecycle management
+* Rental period customization
+* Customer onboarding workflows
+* Payment scheduling
+
+### 👥 User Management
+
+* Secure JWT login
+* Role-based access (Admin/User)
+* Customer profile handling
+* Staff access control
+
+### 📊 Business Intelligence
+
+* Vehicle performance reports
+* Leasing revenue reports
+* Rental utilization metrics
+* Customer insights
+* Admin dashboards
+
+### ⚙️ Technical Excellence
+
+* Repository Pattern
+* Service Layer Architecture
+* Middleware Exception Handling
+* Swagger API Documentation
+* Logging system
+* Modular codebase
 
 ---
 
 ## 🏗️ Project Structure
 
 ```bash
-KiranaStore/
+Vehicle_Config(DotNet)/
 │
-├── KiranaStore.API             # Controllers, Middleware, Swagger
-├── KiranaStore.Application     # Services, DTOs, Business Logic
-├── KiranaStore.Domain          # Core Entities, Interfaces
-├── KiranaStore.Infrastructure  # External Integrations
-├── KiranaStore.Persistence     # EF Core, Repositories, DB Context
-├── KiranaStore.Shared          # Shared Models & Helpers
-└── KiranaStore.sln             # Solution File
+├── Configuration           # App configuration & dependency setup
+├── Controllers             # API endpoints
+├── ExceptionMiddleWare     # Global error handling
+├── Logging                 # Custom logging services
+├── Migrations              # Entity Framework migrations
+├── Models                  # Domain models/entities
+├── Repositories            # Data access layer
+├── Services                # Business logic layer
+├── Program.cs              # Entry point
+├── appsettings.json        # Configurations
+└── Vehicle_Config.sln      # Solution file
 ```
 
 ---
@@ -100,12 +132,12 @@ KiranaStore/
 
 <div align="center">
 
-### Backend Development
+### Backend Technologies
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![EF](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 
 ### Database & Security
 
@@ -113,93 +145,110 @@ KiranaStore/
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
 
-### Tools & Deployment
+### Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visual-studio\&logoColor=white)
 
 </div>
 
 ---
 
-## 🔐 Security Implementation
+## 🔐 Security Features
 
-* JWT Token Authentication
+* JWT Authentication
 * Role-Based Authorization
-* Password Encryption
-* Middleware-based Exception Handling
-* Secure API Endpoints
-* Input Validation
+* Secure Password Handling
+* Global Exception Middleware
+* API Request Validation
+* Protected Admin Controls
 
 ---
 
-## ⚡ Installation Guide
+## ⚡ Setup & Installation
 
 ### Clone Repository
 
 ```bash
-git clone https://github.com/shantanupzingare/KiranaStore.git
-cd KiranaStore
+git clone https://github.com/shantanupzingare/Vehicle_Config-DotNet.git
+cd Vehicle_Config-DotNet
 ```
 
-### Restore Dependencies
+### Restore Packages
 
 ```bash
 dotnet restore
 ```
 
-### Database Migration
+### Apply Migrations
 
 ```bash
 dotnet ef database update
 ```
 
-### Run Application
+### Run Project
 
 ```bash
-dotnet run --project KiranaStore.API
+dotnet run
 ```
 
 ---
 
 ## 📄 API Documentation
 
-After running the project:
+Swagger available at:
 
 ```bash
 https://localhost:{port}/swagger
 ```
 
-### Available Modules:
+### API Modules:
 
 * Authentication APIs
-* Product Management APIs
-* Billing APIs
-* Inventory APIs
+* Vehicle Configuration APIs
+* Fleet Inventory APIs
+* Leasing Management APIs
 * Customer Management APIs
 * Reporting APIs
 
 ---
 
-## 🌟 Key Highlights
+## 🌟 Advanced Highlights
 
-✅ Clean Architecture
-✅ Enterprise-grade backend structure
-✅ Production-ready code practices
-✅ Recruiter-focused portfolio project
-✅ Highly scalable modular system
+### Why This Project Stands Out:
+
+✅ Real-world B2B use case
+✅ Enterprise backend structure
+✅ Scalable modular design
+✅ Recruiter-ready advanced project
+✅ Strong .NET backend demonstration
+✅ Clean coding principles
 
 ---
 
-## 📈 Future Scope
+## 📈 Future Enhancements
 
-* Razorpay Integration
-* WhatsApp Invoice Notifications
-* Redis Caching
+* React Frontend Integration
+* Payment Gateway Support
 * Cloud Deployment (Azure/AWS)
-* Mobile App Integration
-* AI Sales Forecasting
+* Redis Caching
+* Microservices Expansion
+* Docker Containerization
+* AI-powered vehicle recommendation engine
+
+---
+
+## 🏆 Business Value
+
+This platform can serve:
+
+* Vehicle leasing agencies
+* Corporate fleet providers
+* Rental companies
+* Automotive B2B marketplaces
+* Fleet optimization services
 
 ---
 
@@ -207,7 +256,7 @@ https://localhost:{port}/swagger
 
 ### Shantanu Zingare
 
-**Backend Developer | .NET | Java | Microservices**
+**Backend Developer | .NET | Java | Enterprise Systems**
 
 <a href="https://github.com/shantanupzingare"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/shantanu-zingare-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:shantanup.zingare@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -215,8 +264,10 @@ https://localhost:{port}/swagger
 
 <div align="center">
 
-### ⭐ If you like this project, consider giving it a star!
+## ⭐ Support This Project
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=120&section=footer" width="100%"/>
+If you found this repository valuable, consider giving it a star to support future enterprise-grade projects.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=140&section=footer" width="100%"/>
 
 </div>
